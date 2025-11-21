@@ -26,7 +26,7 @@ Here you can show images of your project:
 
 
 
-<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/Capture.PNG" width="240" height="530" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/Capture.PNG" width="540" height="830" /> &nbsp;&nbsp;
 
 
 ## Installation
