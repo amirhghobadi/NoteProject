@@ -26,7 +26,7 @@ Here you can show images of your project:
 
 
 
-<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/index.PNG" width="740" height="1030" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/index.PNG" width="540" height="830" /> &nbsp;&nbsp;
 <br>
 <img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/new.PNG" width="540" height="830" /> &nbsp;&nbsp;
 <img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/edit.PNG" width="540" height="830" /> &nbsp;&nbsp;
