@@ -25,7 +25,8 @@ This project is built with the following technologies:
 Here you can show images of your project:
 
 
-![Model]([https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/Capture.PNG])
+
+<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/Capture.PNG" width="240" height="530" /> &nbsp;&nbsp;
 
 
 ## Installation
