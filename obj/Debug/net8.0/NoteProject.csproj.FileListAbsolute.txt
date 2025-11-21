@@ -134,3 +134,4 @@ D:\noteproject\NoteProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runti
 D:\noteproject\NoteProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\noteproject\NoteProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\noteproject\NoteProject\obj\Debug\net8.0\NoteProj.B767308A.Up2Date
+D:\noteproject\NoteProject\obj\Debug\net8.0\NoteProject.sourcelink.json

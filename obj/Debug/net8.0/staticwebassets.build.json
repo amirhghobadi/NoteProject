@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/KeWUEnp9UgmNILdBboEek26asxkcuooKTS6gZLJWOk=",
+  "Hash": "KbI0V+mx0xbLf6dTUu4V7DmFc5c7wopf5o4XKoUY9o0=",
   "Source": "NoteProject",
   "BasePath": "_content/NoteProject",
   "Mode": "Default",
@@ -205,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\Vazir.ttf"
+    },
+    {
+      "Identity": "D:\\noteproject\\NoteProject\\wwwroot\\img\\Capture.PNG",
+      "SourceId": "NoteProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\noteproject\\NoteProject\\wwwroot\\",
+      "BasePath": "_content/NoteProject",
+      "RelativePath": "img/Capture.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Capture.PNG"
     },
     {
       "Identity": "D:\\noteproject\\NoteProject\\wwwroot\\js\\site.js",

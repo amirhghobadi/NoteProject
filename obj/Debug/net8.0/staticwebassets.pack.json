@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\fonts\\Vazir.ttf"
     },
     {
+      "Id": "D:\\noteproject\\NoteProject\\wwwroot\\img\\Capture.PNG",
+      "PackagePath": "staticwebassets\\img\\Capture.PNG"
+    },
+    {
       "Id": "D:\\noteproject\\NoteProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
