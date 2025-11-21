@@ -26,11 +26,11 @@ Here you can show images of your project:
 
 
 
-<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/Capture.PNG" width="740" height="1030" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/index.PNG" width="740" height="1030" /> &nbsp;&nbsp;
 
-<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/1.PNG" width="540" height="830" /> &nbsp;&nbsp;
-<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/2.PNG" width="540" height="830" /> &nbsp;&nbsp;
-<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/3.PNG" width="540" height="830" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/new.PNG" width="540" height="830" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/edit.PNG" width="540" height="830" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/details.PNG" width="540" height="830" /> &nbsp;&nbsp;
 
 
 ## Installation
