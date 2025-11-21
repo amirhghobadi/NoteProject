@@ -24,8 +24,8 @@ This project is built with the following technologies:
 
 Here you can show images of your project:
 
-![Screenshot 1](link-to-your-image-1)
-![Screenshot 2](link-to-your-image-2)
+![Screenshot 1]([link-to-your-image-1](https://github.com/amirhghobadi/NoteProject/blob/main/wwwroot/img/Capture.PNG))
+
 
 ## Installation
 
